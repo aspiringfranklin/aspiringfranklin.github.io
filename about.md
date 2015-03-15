@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Some information about you!
+I'm a late 20 something working in London.  Like all in my generation I face a future of spiralling housing costs, high taxes to pay for an ageing society and a distant retirement date for myself.  Unlike most of my generation, I spend a lot of time thinking about why these generational imbalances exist and how I can find ways of improving my lot through careful planning and investing.
 
-### More Information
+I'm lucky enough to work in a job that pays well and to have a hobby (personal finance) that is helping me to achieve my main goal: to become a modern day franklin.
 
-A place to include any other types of information that you'd like to include about yourself.
+To those not familiar with the medieval system of feudalism, a franklin was a freeman but not of noble birth.  Unlike serfs they were not tied to land owned by nobility, instead owning their own real property.
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Like my medieval predecessors, ownership of real property is a key to unlocking the freedom of a modern franklin, as it reduces the influence of the modern, rent extracting, nobility: employers, bankers and the state.

@@ -12,6 +12,6 @@ To those not familiar with the medieval system of feudalism, a franklin was a fr
 
 Like my medieval predecessors, I believe ownership of real property is the key to unlocking the freedom of a modern franklin, as it reduces the influence of the rent extracting modern nobility: employers, banks and the state.
 
-The goal of this site is to help me structure my own thinking.  If anyone finds it interesting, then that is a bonus!
+The goal of this site is to help me structure my own thinking in order to achieve my modest ambition.  If anyone finds it interesting, then that is a bonus!
 
 AF

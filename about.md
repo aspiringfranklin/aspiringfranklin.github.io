@@ -10,4 +10,4 @@ I'm lucky enough to work in a job that pays well and to have a hobby (personal f
 
 To those not familiar with the medieval system of feudalism, a franklin was a freeman but not of noble birth.  Unlike serfs they were not tied to land owned by nobility, instead owning their own real property.
 
-Like my medieval predecessors, ownership of real property is a key to unlocking the freedom of a modern franklin, as it reduces the influence of the modern, rent extracting, nobility: employers, bankers and the state.
+Like my medieval predecessors, I believe ownership of real property is the key to unlocking the freedom of a modern franklin, as it reduces the influence of the modern, rent extracting, nobility: employers, bankers and the state.

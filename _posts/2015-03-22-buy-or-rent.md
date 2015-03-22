@@ -1,5 +1,8 @@
 ---
 layout: post
+tags:
+- housing
+- renting
 title: Should I buy or rent?
 ---
 

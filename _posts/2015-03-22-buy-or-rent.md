@@ -13,12 +13,7 @@ _What is the expected return on my savings if I buy versus rent?_
 
 Both buying and renting have a set of incomes and costs.  This leads to expected returns which will be different depending on the unique circumstances at the time you start:
 
-
-| Item           | Renting                     | Buying                |
-|----------------|-----------------------------|-----------------------|
-| Ongoing income | Income from deposit savings | Imputed rental income |
-| Ongoing costs  | Rental payments             | Mortgage interest     |
-
+![](/images/rentbuytable.png)
 
 Since you have to live somewhere, by definition you are giving someone an income stream.  This is either your landlord (in the form of rent) or if you own your home, you (in the form of imputed rent<sup>(3)</sup>).  In addition, you are likely to have some savings, which you can either invest, earning interest and/or capital gains, or buy a house, earning the imputed rent.
 

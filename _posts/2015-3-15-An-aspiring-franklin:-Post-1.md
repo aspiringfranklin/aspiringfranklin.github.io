@@ -9,10 +9,8 @@ So I'm starting this blog to cover the way I think about some of life's key fina
 
 I have a simple three step formula and will be exploring each pieces in more detail.  These are:
 
-1) Maximise the amount I earn by learning new skills and qualifications
-
-2) Spend less than I earn and invest the remainder in a cost efficient way
-
-3) Own assets whose outputs would otherwise be expenses
+1. Maximise the amount I earn by learning new skills and qualifications
+2. Spend less than I earn and invest the remainder in a cost efficient way
+3. Own assets whose outputs would otherwise be expenses
 
 As I have a busy day job, these posts may be infrequent but hopefully regular.  I live in the UK and so I will end up addressing a number of local issues and make references to UK specific personal tax vehicles (like SIPPs, ISAs etc) but the principles should apply in many other countries around the world.

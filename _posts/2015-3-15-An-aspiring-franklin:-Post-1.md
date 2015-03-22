@@ -1,5 +1,7 @@
 ---
 layout: post
+tags:
+- savings
 title: First Post
 ---
 

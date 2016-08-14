@@ -8,7 +8,7 @@ title: Should I buy or rent?
 
 Housing is easily the biggest expense in my annual budget and I'm not the only one to find this.  According to a recent report by housing charity Shelter, 16.5% of British households spend more than 40% of their income on housing costs – [one of the highest rates in Europe](http://www.theguardian.com/money/2012/jul/19/uk-housing-costs-third-highest).  Making the right choice on how I consume housing is important and anything I do to lower the cost will help me achieve financial independence faster.
 
-There seem to be a lot of myths about housing, in particular the idea that renting is “[a trap](http://england.shelter.org.uk/news/september_2016/sky-high_housing_costs_leave_five_million_stuck_in_the_rent-trap)” and that buying a property is the only sensible emotional and financial choice.  The fact that 61% of private renters expect to buy a home in the future <sup>(1)</sup> tells me what the public thinks about owning versus renting.  However, having always been a contrarian I don't gain a lot of satisfaction from following the crowd and would prefer to work out the best approach for myself.
+There seem to be a lot of myths about housing, in particular the idea that renting is “[a trap](http://england.shelter.org.uk/news/september_2016/sky-high_housing_costs_leave_five_million_stuck_in_the_rent-trap)” and that buying a property is the only sensible emotional and financial choice.  The fact that 61% of private renters expect to buy a home in the future <sup id="a1">[1](#f1)</sup> tells me what the public thinks about owning versus renting.  However, having always been a contrarian I don't gain a lot of satisfaction from following the crowd and would prefer to work out the best approach for myself.
 
 Leaving aside the emotional reasons for owning a house over renting <sup>(2)</sup>, I think the choice between buying or renting a house comes down to a simple question:
 
@@ -46,7 +46,7 @@ I've made this model accessible on [Google Drive](https://docs.google.com/spread
 
 _Footnotes:_
 
-<sup>(1)</sup> _From the [English Housing Survey Headline Report 2013-14](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/406740/English_Housing_Survey_Headline_Report_2013-14.pdf)_
+<b id="f1">1</b> _From the [English Housing Survey Headline Report 2013-14](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/406740/English_Housing_Survey_Headline_Report_2013-14.pdf)_ [↩](#a1)
 
 <sup>(2)</sup> _Again, the English Housing Survey tells us that the average happiness of private renters is not much different to that of house owners:_
 

@@ -19,8 +19,12 @@ As with so many branded items, I often find the trick to finding a more frugal a
 
 However, I read in various places that this could be a more economical form of shaving, so last month, I bought myself a [Muhle safety razor](https://www.amazon.co.uk/gp/product/B003ZVZPU6/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B003ZVZPU6&linkCode=as2&tag=aspiringfranklin-21).  Yes, this is expensive at £25, but it is machined with the precision of a weapon.  There is only one material – stainless steel – which has been polished and knurled in a Rhineland forge.  This razor will almost certainly outlive me.
 
+![The Muhle 89](/images/muhle.png)
+
 The actual experience of shaving with it is fine.  After a cautious first week worrying about slicing my face in two, I discovered that it is neither better or worse than any cartridge style razors I have used before.
 
 No, the real joy in this experience was the cost of the blades.  After a bit of digging, I discovered the [Astra safety razor blades](http://www.ebay.co.uk/itm/100-ASTRA-SUPERIOR-PLATINUM-DOUBLE-EDGE-SAFETY-RAZOR-BLADES-/321839721177).  These can be bought in boxes of 100 at a cost of just £8.  With one purchase I have acquired nearly two years of blades and demolished my annual spend on shaving by some 90%.
+
+![Astra blades](/images/astra.png)
 
 As a reward for being so frugal, I have now indulged myself in expensive soap from [Taylor of Old Bond Street](https://www.amazon.co.uk/gp/product/B0007MW2ZW/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1634&creative=6738&creativeASIN=B0007MW2ZW&linkCode=as2&tag=aspiringfranklin-21).  This turns out to support approximately the same number as shaves as my old Gillette products, so my cost on soap has not changed, leaving me both (marginally) richer and (much) better scented!

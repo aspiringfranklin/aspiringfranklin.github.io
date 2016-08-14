@@ -8,9 +8,9 @@ title: Should I buy or rent?
 
 Housing is easily the biggest expense in my annual budget and I'm not the only one to find this.  According to a recent report by housing charity Shelter, 16.5% of British households spend more than 40% of their income on housing costs – [one of the highest rates in Europe](http://www.theguardian.com/money/2012/jul/19/uk-housing-costs-third-highest).  Making the right choice on how I consume housing is important and anything I do to lower the cost will help me achieve financial independence faster.
 
-There seem to be a lot of myths about housing, in particular the idea that renting is “[a trap](http://england.shelter.org.uk/news/september_2016/sky-high_housing_costs_leave_five_million_stuck_in_the_rent-trap)” and that buying a property is the only sensible emotional and financial choice.  The fact that 61% of private renters expect to buy a home in the future ^((1)) tells me what the public thinks about owning versus renting.  However, having always been a contrarian I don't gain a lot of satisfaction from following the crowd and would prefer to work out the best approach for myself.
+There seem to be a lot of myths about housing, in particular the idea that renting is “[a trap](http://england.shelter.org.uk/news/september_2016/sky-high_housing_costs_leave_five_million_stuck_in_the_rent-trap)” and that buying a property is the only sensible emotional and financial choice.  The fact that 61% of private renters expect to buy a home in the future <sup>(1)</sup> tells me what the public thinks about owning versus renting.  However, having always been a contrarian I don't gain a lot of satisfaction from following the crowd and would prefer to work out the best approach for myself.
 
-Leaving aside the emotional reasons for owning a house over renting ^((2)), I think the choice between buying or renting a house comes down to a simple question:
+Leaving aside the emotional reasons for owning a house over renting <sup>(2)</sup>, I think the choice between buying or renting a house comes down to a simple question:
 
 _What is the expected return on my savings if I buy versus rent?_
 
@@ -18,7 +18,7 @@ Both buying and renting have a set of incomes and costs.  This leads to expected
 
 ![](/images/rentbuytable.png)
 
-Since you have to live somewhere, by definition you are giving someone an income stream.  This is either your landlord (in the form of rent) or if you own your home, you (in the form of imputed rent ^((3))).  In addition, you are likely to have some savings, which you can either invest, earning interest and/or capital gains, or buy a house, earning the imputed rent.
+Since you have to live somewhere, by definition you are giving someone an income stream.  This is either your landlord (in the form of rent) or if you own your home, you (in the form of imputed rent <sup>(3)</sup>).  In addition, you are likely to have some savings, which you can either invest, earning interest and/or capital gains, or buy a house, earning the imputed rent.
 
 If you own then your deposit is locked up in the house, not earning dividends from share investments or interest income from bond investments.  This is the [opportunity cost](http://en.wikipedia.org/wiki/Opportunity_cost) of owning a house.
 

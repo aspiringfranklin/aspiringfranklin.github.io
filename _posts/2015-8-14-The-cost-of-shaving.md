@@ -13,7 +13,7 @@ The reality is that razor blades only cost so much because I and many others are
 
 I have certainly been one of those customers that helped Mr Buffett achieve such a fabulous return.  Let’s take a look at the current prices.  The basic end of the Gillette Fusion range – the one with the preposterous 5 blades – costs £2 per cartridge.  Gillette claims these remain sharp for “up to a month” but this claim is based on “3 to 4 shaves for three weeks” which is no working month as far as I am concerned.  That equates to 9 to 12 shaves per cartridge, or just under 2 weeks which seems more accurate.
 
-So on annual basis, I am liable to give Gillette £48 plus another £20 or so on shaving cream.  This is a small enough sum that I should probably ignore it, but – like a blunt razor – it still irritates me that something so simple should cost so much.
+So on annual basis, I am liable to give Gillette £52 plus another £20 or so on shaving cream.  This is a small enough sum that I should probably ignore it, but – like a blunt razor – it still irritates me that something so simple should cost so much.
 
 As with so many branded items, I often find the trick to finding a more frugal alternative is to look to the past.  My grandfather shaved for many years with a [safety razor](https://en.wikipedia.org/wiki/Safety_razor) and never felt the need for anything better.  I had always been slightly afraid of this form of shaving, coming as it does with loose razor blades sharpened on two edges without any protective plastic casings.
 
@@ -23,7 +23,7 @@ However, I read in various places that this could be a more economical form of s
 
 The actual experience of shaving with it is fine.  After a cautious first week worrying about slicing my face in two, I discovered that it is neither better or worse than any cartridge style razors I have used before.
 
-No, the real joy in this experience was the cost of the blades.  After a bit of digging, I discovered the [Astra safety razor blades](http://www.ebay.co.uk/itm/100-ASTRA-SUPERIOR-PLATINUM-DOUBLE-EDGE-SAFETY-RAZOR-BLADES-/321839721177).  These can be bought in boxes of 100 at a cost of just £8.  With one purchase I have acquired nearly two years of blades and demolished my annual spend on shaving by some 90%.
+No, the real joy in this experience was the cost of the blades.  After a bit of digging, I discovered the [Astra safety razor blades](http://www.ebay.co.uk/itm/100-ASTRA-SUPERIOR-PLATINUM-DOUBLE-EDGE-SAFETY-RAZOR-BLADES-/321839721177).  These can be bought in boxes of 100 at a cost of just £8.  Even treating myself to a new blade every week, with one purchase I have acquired nearly two years of blades and demolished my annual spend on shaving by some 90%.
 
 ![Astra blades](/images/astra.png)
 

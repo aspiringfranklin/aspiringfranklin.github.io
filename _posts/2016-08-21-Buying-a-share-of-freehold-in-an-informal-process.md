@@ -3,7 +3,7 @@ layout: post
 tags:
 - freehold
 - property
-title: The cost of shaving
+title: Buying a share of freehold in an informal process
 ---
 Last week I completed an 11 month transaction to buy a share of the freehold of my building.  This was a great moment for me as becoming a freeholder - and thereby owning a piece of real property in perpetuity - has been a lifelong goal. 
 

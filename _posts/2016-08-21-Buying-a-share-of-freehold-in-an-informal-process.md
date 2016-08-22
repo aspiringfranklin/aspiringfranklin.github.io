@@ -13,7 +13,7 @@ Owning a leasehold along with a share of a freehold is very common in cities in 
 
 Since the 1970s tens of thousands of Victorian terraced houses, often in rotting post war dilapidation, were bought up by developers and hastily converted into flats. This was the case with my property: first built in 1890, bombed out during the Blitz and then converted into three flats in the late 70s. 
 
-As is common, the developer of my building kept the freehold to himself and sold off leases for the flat.
+As is common, the developer of my building kept the freehold to himself and sold off leases for the flats.
 
 Before going any further, let me recap on the basics of freehold and leasehold.
 

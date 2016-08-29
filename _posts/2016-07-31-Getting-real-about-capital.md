@@ -27,6 +27,27 @@ Why is it so important to consider real assets when planning how to achieve fina
 
 Almost all taxes capture a share of transaction flows.  There are a few taxes that earn from a stock of value (in the UK inheritance tax is probably the biggest one), but these represent a small portion of the overall tax take.(1)
 
-This means every time I hand over money to pay for something, or every time I receive money for something, a considerable slice of that transaction is going to the government in the form of tax.  Let's take the housing example.  When I rent, while I am not paying tax directly the burden of my landlord's tax very likely falls directly on me due to tax incidence (http://www.investopedia.com/terms/t/tax_incidence.asp).  This is the idea that due to the excess of demand versus supply, landlords are able to increase prices relative to a market with no taxes in order to cover some or all of the taxes they are charged.
+This means every time I hand over money to pay for something, or every time I receive money for something, a considerable slice of that transaction is going to the government in the form of tax.  Let's take the housing example.  When I rent, while I am not paying tax directly the burden of my landlord's tax very likely falls directly on me due to [tax incidence] (http://www.investopedia.com/terms/t/tax_incidence.asp).  This is the idea that due to the excess of demand versus supply, landlords are able to increase prices relative to a market with no taxes in order to cover some or all of the taxes they are charged.
 
 On the other hand, when I buy the house, I provide the housing service directly to myself and avoid all ongoing taxation.  The example below shows how big this saving could be, simply by looking at taxes on income but ignoring capital gains taxes (which of course are also not paid by owner occupiers but are by landlords) and stamp duty (which are paid by both)(2).
+
+With housing currently taking around 45% of my annual expenses, buying instead of renting could reduce the cost by around 35% simply by removing the tax man from the equation.  This is one of the big reasons I've decided to buy rather than rent.
+
+## Real independence
+
+Looking through my consumption, it is easy to see how big a difference owning real capital could make to achieving financial independence.  Here is how my consumption broke down in the four years before buying a house.
+
+I’m assuming that it isn’t possible to replace the financial cost in these areas entirely.  In the case of housing, energy and water, I still need to pay for maintenance work, and in the case of food no amount of gardening will produce all my needs.
+
+However, I believe that nearly 50% of my consumption could be replaced by the output of real capital.  Given the potential to save tax on that consumption, this could significantly reduce the total amount of capital I need to save up before being able to retire.  If the other areas of consumption, like food, electricity and water, are similarly effected by taxes as housing, the overall reduction on the cost of my consumption from the effect of minimising taxes could be 16.5% or close to 1/6th.    
+
+And that is before recognising that the financial cost of many of those real assets is considerably below the cost of acquiring them through financial assets.  For example, solar panels are actually subsidised, making it considerably cheaper to produce your own electricity than buy it from the market.
+
+This potential to reduce the cost of financial independence is why I’ve set one of my five year goals to produce 50% of my consumption by real capital.
+
+~~~~~~~~~~~~~~~~~~~~~
+
+It is quite possible that in time governments will try to increase the number of wealth taxes [https://principlesandinterest.wordpress.com/2015/04/01/why-arent-all-taxes-wealth-taxes/].  As it happens I think this would be entirely sensible.  The current system of taxation makes the pragmatic decision to tax transactions (easy to quantify) instead of real assets (hard to quantify) but in so doing puts the burden of taxation on those least able to afford it.
+
+Still, for the time being, this is one of the biggest single savings I can make on the road to financial independence.
+

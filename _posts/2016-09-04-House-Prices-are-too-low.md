@@ -44,4 +44,8 @@ Looking at value this way, we can see there might be three reasons why house pri
 
 ![London rental yields](/images/property_yield.png)
 
+As you can see, the rental yield has remain more or less constant, during a time when prices have risen.  We know that the risk free rate has fallen dramatically since 2006, which means that for the yield to stay constant while prices are rising means that the real estate rise premimum has actually _fallen_.  This means investors are actually demanding a higher return for investing in property.  The fact that risk premiums have risen suggests to me that property is undervalued given current and expected future interest rates.  I suspect this is because most investors believe that interest rates will soon rise.  I believe they will be waiting for some time.
+
+########################
+
 All this matters for someone pursuing financial independence because housing is such a large part of our spending.  [As I’ve argued](http://www.aspiringfranklin.com/buy-or-rent/), the best way to reduce this cost is to buy and through this kind of analysis I continue to believe that is the right decision.

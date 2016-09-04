@@ -26,7 +26,7 @@ Looking at value this way, we can see there might be three reasons why house pri
 
 * **Yield is too high and will revert back to a reasonable rate.**  The yield from housing is rent (or imputed rent if you are an owner-occupier) and measured by the number of column inches, rental rates would seem high.  Indeed if rents had become disconnected with wages, one could argue that rents would eventually fall as households decide to cut back and live in more affordable homes.  As it happens this is largely what happens.  In the country as a whole rents have merely grown in line with wages according to the ONS.  So I don’t believe there is a strong case that rental rates are worse now relative to wages than 10 years ago, nor that rents are too high.
 
-![Wages versus rents](/images/wages_rent.png)
+![Wages versus rents](/images/wages_rents.png)
 
 * **The long term growth rate (g) will fall.**  As we’ve seen, the historic growth rate for rents have more or less moved in line with wages.  There is no reason to suspect this trend won’t continue.  So as long as wages continue to rise (another story) then the long term growth rate in rents will remain stable at around 2-3%.  But there is another factor working to increase demand for homes: household formation.  This is actually forecast to increase faster than population, which will add extra pressure on the demands for homes.  So if anything, there is a strong argument that the long term growth rate in rents will increase, not fall.
 

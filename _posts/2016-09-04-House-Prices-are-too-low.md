@@ -24,15 +24,15 @@ The value of any asset is driven by the present value of its future income strea
 
 Looking at value this way, we can see there might be three reasons why house prices could be excessively high relative to value.
 
-* **Yield is too high and will revert back to a reasonable rate.**  The yield from housing is rent (or imputed rent if you are an owner-occupier) and measured by the number of column inches, rental rates would seem high.  Indeed if rents had become disconnected with wages, one could argue that rents would eventually fall as households decide to cut back and live in more affordable homes.  As it happens this is largely what happens.  In the country as a whole rents have merely grown in line with wages according to the ONS.  So I don’t believe there is a strong case that rental rates are worse now relative to wages than 10 years ago, nor that rents are too high.
+* **Yield is too high and will revert back to a reasonable rate.**  The yield from housing is rent (or imputed rent if you are an owner-occupier) and measured by the number of column inches, rental rates would seem high.  Indeed if rents had become disconnected with wages, one could argue that rents would eventually fall as households decide to cut back and live in more affordable homes.  But rents haven't become disconnected from wages.  In the country as a whole rents have grown in line with wages, according to the ONS.  So I don’t believe there is a strong case that rental rates are worse now relative to wages than 10 years ago, nor that rents are too high.
 
 ![Wages versus rents](/images/wages_rents.png)
 
-* **The long term growth rate (g) will fall.**  As we’ve seen, the historic growth rate for rents have more or less moved in line with wages.  There is no reason to suspect this trend won’t continue.  So as long as wages continue to rise (another story) then the long term growth rate in rents will remain stable at around 2-3%.  But there is another factor working to increase demand for homes: household formation.  This is actually forecast to increase faster than population, which will add extra pressure on the demands for homes.  So if anything, there is a strong argument that the long term growth rate in rents will increase, not fall.
+* **The long term growth rate (g) will fall.**  As we’ve seen, the historic growth rate for rents have more or less moved in line with wages.  There is no reason to suspect this relationship won’t continue.  So as long as wages continue to rise (another story) then the long term growth rate in rents will remain stable at around 2-3%.  But there is another factor working to increase demand for homes: household formation.  This is actually forecast to increase faster than population, which will add extra pressure on the demands for homes.  So if anything, there is a strong argument that the long term growth rate in rents will increase, not fall.
 
 ![Long term growth in household formation](/images/household_formation_forecast.png)
 
-* **The discount rate for houses (rre) is too low and will increase.**  rre is the discount rate for housing and it itself is made up of two main components:
+* **The discount rate for houses (r<sub>re</sub>) is too low and will increase.**  r<sub>re</sub> is the discount rate for housing and it itself is made up of two main components:
 
 <p align="center">
   r<sub>re</sub> = r<sub>f</sub> + beta(r<sub>erp</sub>)

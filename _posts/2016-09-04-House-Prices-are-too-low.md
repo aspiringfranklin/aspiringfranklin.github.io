@@ -38,9 +38,9 @@ Looking at value this way, we can see there might be three reasons why house pri
   r<sub>re</sub> = r<sub>f</sub> + beta(rerp)
 </p>
 
-..* We can ignore beta as for the market as a whole it is 1
-..* r<sub>f</sub> is the risk free rate – this is the yield of government bonds.  These have been hitting all time lows in the wake of Brexit, and even before then were at historic lows.  The reasons why this is the case are extermely interesting.  When he left the Fed, Ben Bernanke became a part time blogger and wrote an excellent series of posts on [why interest rates are so low](https://www.brookings.edu/blog/ben-bernanke/2015/03/30/why-are-interest-rates-so-low/).  Bottom line: low rates are a product of market forces and are here to stay for as long as the world is experiencing a savings glut and secular stagnation.  This factor will work to keep house values high
-..* The real estate risk premium (rerp) is the extra rate of return investors (or just buyers) demand over the risk free rate.  This is hard to determine a priori and in equity markets is usual found by rearranging the equation, since price is always available.  Let’s look at one market frequently argued to be one of the most overpriced in the world: London
+* We can ignore beta as for the market as a whole it is 1
+* r<sub>f</sub> is the risk free rate – this is the yield of government bonds.  These have been hitting all time lows in the wake of Brexit, and even before then were at historic lows.  The reasons why this is the case are extermely interesting.  When he left the Fed, Ben Bernanke became a part time blogger and wrote an excellent series of posts on [why interest rates are so low](https://www.brookings.edu/blog/ben-bernanke/2015/03/30/why-are-interest-rates-so-low/).  Bottom line: low rates are a product of market forces and are here to stay for as long as the world is experiencing a savings glut and secular stagnation.  This factor will work to keep house values high
+* The real estate risk premium (rerp) is the extra rate of return investors (or just buyers) demand over the risk free rate.  This is hard to determine a priori and in equity markets is usual found by rearranging the equation, since price is always available.  Let’s look at one market frequently argued to be one of the most overpriced in the world: London
 
 ![London rental yields](/images/property_yield.png)
 
